@@ -1,3 +1,9 @@
-groq
-dotenv
-colorama
+pip~=26.0
+groq~=1.1.2
+dotenv~=0.9.9
+colorama~=0.4.6
+pandas~=3.0.1
+openai~=2.30.0
+Faker~=40.13.0
+python-dotenv~=1.2.2
+matplotlib~=3.10.8
